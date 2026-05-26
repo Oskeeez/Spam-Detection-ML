@@ -1,2 +1,2 @@
 # Spam Detection ML
-I am going to create a spam detection AI
+Spam detection ai - eventually will have app that will tell you if your messgage input is spam. 
